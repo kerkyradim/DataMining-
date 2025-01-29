@@ -3,6 +3,6 @@ This is a University's Assigmnt for the subject Data Mining. Using Machine Learn
 
 * Data Mining Assigment: The main code and the models used 
 * movies.xlsx: The main dataset
-* test.anon.xlsx: Thetest dataset
+* test.anon.xlsx: The test dataset
 * predictions_results.csv: results after testing the accuracy of every model used 
   
