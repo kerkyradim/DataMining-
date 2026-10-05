@@ -3,8 +3,7 @@
 University assignment for the **Data Mining** course (Harokopio University of Athens, Department of Informatics and Telematics).
 
 **Task:** predict whether a film is an **Oscar winner** from movie metadata (critics/audience scores, genre, box office, budget, release date, and related features).
-
-**Team (student IDs):** IT22026 · IT22086 · IT22135  
+  
 **Author:** [Kerkyra Dimisianou](https://github.com/kerkyradim)  
 **Repository:** [kerkyradim/DataMining-](https://github.com/kerkyradim/DataMining-)
 
