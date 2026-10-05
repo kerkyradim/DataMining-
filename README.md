@@ -55,7 +55,7 @@ Place the Excel files in the repo root (already included). Run the notebook from
 
 - **Python:** pandas, NumPy, Matplotlib, Seaborn  
 - **ML:** scikit-learn (`train_test_split`, `DecisionTreeClassifier`, `Pipeline`, `StandardScaler`, `cross_validate`)  
-- **Deep learning:** PyTorch (optional path in the assignment)
+
 
 ---
 
